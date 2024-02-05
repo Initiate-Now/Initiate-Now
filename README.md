@@ -1,8 +1,7 @@
 <div align="center">
- <img src="docs/IN_logo.png" alt="Logo" width="75" height="75" style="float: left; margin-right: 20px;">
+  <!-- <img src="docs/IN_logo.png" alt="Logo" width="50" height="50" style="float: left; margin-right: 20px;"> -->
   <h1>Initiate Now's GitHub Profile</h1>
 </div>
-
 
 👋 Hi there! Welcome to my GitHub profile.
 

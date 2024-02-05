@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div>
-    <img width="250" height="250" src="docs/IN_logo.png" alt="Logo">
+    <img width="150" height="150" src="docs/IN_logo.png" alt="Logo">
   </div>
   <div>
     <h1>Initiate Now's GitHub Profile</h1>

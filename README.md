@@ -1,9 +1,11 @@
-<div align="center">
-  <img width="750" height="400" src="docs/IN_logo.png" alt="Logo">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <img width="250" height="250" src="docs/IN_logo.png" alt="Logo">
+  </div>
+  <div>
+    <h1>Initiate Now's GitHub Profile</h1>
+  </div>
 </div>
-
-# INITIATE NOW's GitHub Profile
-
 👋 Hi there! Welcome to my GitHub profile.
 
 I'm Navin, a Embedded Developer passionate about Embedded Systems. This is my space on GitHub, where I collaborate on interesting projects and share my work with the community.

@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
   <div>
     <img width="250" height="250" src="docs/IN_logo.png" alt="Logo">
   </div>

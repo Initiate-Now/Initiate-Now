@@ -3,22 +3,29 @@
   <h1>Initiate Now's GitHub Profile</h1>
 </div>
 
-👋 Hi there! Welcome to my GitHub profile.
+👋 Hi there! I'm Navin,
 
-I'm Navin, a Embedded Developer passionate about Embedded Systems. This is my space on GitHub, where I collaborate on interesting projects and share my work with the community.
+ Embedded software development and testing with 4+ years of experience,
+developing efficient reliable and high-performance software solutions for built in
+systems. With a strong background in microcontrollers, driver development, hardwaresoftware
+integration and automation testing.
 
-<!-- ## 🔧 Technologies & Tools
+## 💻 Technologies & Tools I work with:
 
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3] -->
-
-## 🌱 I'm Currently Learning
-
-I'm constantly expanding my skill set. Currently, I'm focused on learning:
-
-- BareMetal Programming with ARM-Cortex
-- Python
+- **Programming Languages** : C, Embedded C, Python
+- **Scripting** : Batch, Groovy
+- **OS** : Windows & Linux
+- **Microcontrollers** : ESP32, PIC16f877a, STM32, NRF5x
+- **Wireless** : BLE, Wi-Fi
+- **Protocols** : SPI, I2C, I2S, UART, SCI, PDM, ADC, PWM
+- **Development Boards** : Raspberry Pi and Arduino
+- **Sensors & Modules** : MLX90614, MLX90632, BNO055, ADXL345, Load Cell, HX711, ADS1231, Max86141 with Max32664, SHT20, Bosch sensors, RRC Battery and OLED display
+- **SDK** : nrf5 SDK, NRF Connect SDK, Zephyr and ESP-IDF
+- **IDE** : MPLABX, Arduino, VSCode, STM32Cube, Keil, pycharm and anaconda
+- **Compilers** : XC8, ARM GNU Toolchain
+- **Tools** : gtest, pytest, Jira, BitBucket, GitHub, SourceTree
+- **CI/CD & Automation** : Jenkins, Git
+- **Embedded Desing** : Baremetal Programing, Driver Development, Unit Testing, Integration Testing, Testing Automation.
 
 ## 📈 GitHub Stats
 

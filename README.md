@@ -29,7 +29,7 @@ integration and automation testing.
 
 ## 📈 GitHub Stats
 
-[![NAVIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true)](https://github.com/Initiate-Now/github-readme-stats)
+[![NAVIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/Initiate-Now/github-readme-stats)
 
 <a href="https://github.com/Initiate-Now">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Initiate-Now&theme=blueberry" />

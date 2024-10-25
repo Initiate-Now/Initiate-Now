@@ -29,13 +29,9 @@ integration, and automation testing.
 - **Embedded Design **: Baremetal Programming, Driver Development, Unit Testing, Integration Testing, and Testing Automation.
 
 ## 📈 GitHub Stats
-
-[![NAVIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/Initiate-Now/github-readme-stats)
-
-<a href="https://github.com/Initiate-Now">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Initiate-Now&theme=blueberry" />
-</a>
-
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true"/>
+<img alt="top langs" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Initiate-Now&layout=compact"/>
+<!-- <img alt="top pins" src="https://github-readme-stats.vercel.app/api/pin/?username=Initiate-Now&repo=PIC_uc_Application"/> -->
 
 <!-- ## 🚀 Projects
 
@@ -46,7 +42,6 @@ Here are some projects I'm proud of:
 3. [Project 3](link-to-project-3) - Brief description.
 
 Feel free to explore my repositories for more! -->
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Navin Chakravarthy K](www.linkedin.com/in/navin-chakravarthy-k-5b7385123)

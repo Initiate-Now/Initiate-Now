@@ -55,6 +55,7 @@ I'm **Navin**, an **Embedded Software Developer** with over **4 years** of exper
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true&cache_seconds=3600&theme=github_dark&include_all_commits=true&hide=prs,issues,contribs" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Initiate-Now&layout=compact&theme=github_dark" alt="Top Languages" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Initiate-Now" alt="GitHub Streak" width="50%"/>
 </div>
 
 ---

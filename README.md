@@ -10,7 +10,7 @@
 ---
 
 👋 **Hi there!**  
-I'm **Navin**, an **Embedded Software Developer** with over **4 years** of experience in building efficient, reliable, and high-performance software solutions for embedded systems. I specialize in **microcontrollers**, **driver development**, **hardware-software integration**, and **automated testing**.
+I'm **Navin**, an **Embedded Software Developer** experience in building efficient, reliable, and high-performance embedded projects. I specialize in **microcontrollers**, **driver development**, **hardware-software integration**, and **automated testing**.
 
 ---
 
@@ -52,9 +52,11 @@ I'm **Navin**, an **Embedded Software Developer** with over **4 years** of exper
 
 ## 📊 **GitHub Stats**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Initiate-Now)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Initiate-Now)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true&cache_seconds=3600&theme=github_dark&include_all_commits=true&hide=prs,issues,contribs" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Initiate-Now&layout=compact&theme=github_dark" alt="Top Languages" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=Initiate-Now" alt="GitHub Streak" width="50%"/>
 </div>
 

@@ -55,7 +55,7 @@ I'm **Navin**, an **Embedded Software Developer** experience in building efficie
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Initiate-Now&show_icons=true&cache_seconds=3600&theme=github_dark&include_all_commits=true&hide=prs,issues,contribs" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Initiate-Now&layout=compact&theme=github_dark" alt="Top Languages" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Initiate-Now" alt="GitHub Streak" width="50%"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Initiate-Now&cache_seconds=300" alt="GitHub Streak" width="50%"/></a>
 </div>
 
 ---

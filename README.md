@@ -1,53 +1,86 @@
 <table align="center">
   <tr>
-    <td><img src="docs/IN_logo.png" alt="Logo" width="200"></td>
+    <td><img src="docs/IN_logo.jpg" alt="Logo" width="200"></td>
     <td>
-      <h1 style="font-size: 2.5em;">Initiate Now's GitHub Profile</h1>
+      <h1 style="font-size: 5.5em;">Initiate Now</h1>
     </td>
   </tr>
 </table>
 
 ---
 
-👋 **Hi there!**  
-I'm **Navin**, an **Embedded Software Developer** experience in building efficient, reliable, and high-performance software solutions for embedded systems. I specialize in **microcontrollers**, **driver development**, **hardware-software integration**, and **automated testing**.
+# Hi 👋, I'm K. Navin Chakravarthy
+
+### Embedded Software Engineer | Firmware Developer
+
+Passionate about Embedded Systems, Firmware Development, RTOS, and Embedded Linux. Currently strengthening my skills in driver development, system design, and real-world embedded applications.
+
+---
+## 🚀 About Me
+
+- 💻 Embedded Software Engineer
+- 🌱 Currently learning STM32, FreeRTOS, and Linux Device Drivers
+- 🔧 Interested in Embedded C, Firmware Architecture, and Debugging
+- 📚 Preparing for Embedded Systems and Firmware Development roles
+- 🎯 Goal: Become a highly skilled Firmware Engineer
+
+---
+## 🛠️ Technical Skills
+
+### Programming
+- C
+- Basic C++
+- Python
+- Shell Scripting
+
+### Embedded Systems
+- Embedded C
+- PIC16F877A
+- STM32
+- UART
+- SPI
+- I2C
+- Timers
+- Interrupts
+
+### Operating Systems
+- Linux
+- FreeRTOS (Learning)
+
+### Tools
+- Git
+- GitHub
+- Makefile
+- Jenkins
+- Proteus
+- MATLAB Simulink
 
 ---
 
-## 🚀 **Technologies & Tools I Work With**
+## 📌 Featured Projects
 
-### 🛠️ **Languages**
-- **Programming**: C, Embedded C, Python  
-- **Scripting**: Batch, Groovy  
+### 🔹 UART Driver Development
+Developed UART communication drivers with interrupt-based data handling.
 
-### 🖥️ **Platforms**
-- **Operating Systems**: Windows & Linux  
-- **Microcontrollers**: ESP32, PIC16F877A, STM32, NRF5x  
-- **Wireless Protocols**: BLE, Wi-Fi  
+### 🔹 Embedded C Practice Repository
+Collection of Embedded C programs, data structures, bit manipulation exercises, and interview preparation material.
 
-### 🔗 **Communication Protocols**
-- SPI, I2C, I2S, UART, SCI, PDM, ADC, PWM  
+### 🔹 PIC16F877A Projects
+Microcontroller-based applications developed using Embedded C and simulation environments.
 
-### 📟 **Development Boards**
-- Raspberry Pi, Arduino  
+### 🔹 Makefile Automation
+Build automation examples for Embedded Software projects.
 
-### 🔧 **Sensors & Modules**
-- **Sensors**: MLX90614, MLX90632, BNO055, ADXL345, Bosch Sensors, SHT20  
-- **Modules**: Load Cell (HX711, ADS1231), Max86141 with Max32664, RRC Battery, OLED Display  
+### 🔹 RTOS Learning Projects
+Task scheduling, queues, semaphores, and synchronization examples using FreeRTOS.
 
-### 🛠️ **SDKs & Frameworks**
-- nrf5 SDK, NRF Connect SDK, Zephyr, ESP-IDF  
-
-### 💻 **IDEs & Tools**
-- **IDEs**: MPLABX, Arduino IDE, VSCode, STM32Cube, Keil, PyCharm, Anaconda  
-- **Compilers**: XC8, ARM GNU Toolchain  
-- **Unit Testing Tools**: gtest, pytest  
-- **Collaboration**: Jira, Bitbucket, GitHub, SourceTree  
-- **CI/CD**: Jenkins, Git  
-
-### 🧩 **Embedded Design**
-- Baremetal Programming, Driver Development, Unit Testing, Integration Testing, Automation Testing  
-
+### 🔹 Embedded Interview Preparation
+Comprehensive notes covering:
+- Embedded C
+- RTOS
+- Linux
+- Microcontrollers
+- Firmware Design
 ---
 
 ## 📊 **GitHub Stats**
@@ -68,5 +101,6 @@ I'm **Navin**, an **Embedded Software Developer** experience in building efficie
 - **YouTube**: [@initiatenow](https://www.youtube.com/@initiatenow9361)  
 
 ---
+### 💡 Philosophy
 
-🚀 **Feel free to reach out** if you have questions, ideas, or want to collaborate on something exciting! 😊  
+> "Continuous learning and hands-on development are the foundations of becoming a great firmware engineer."

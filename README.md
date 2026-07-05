@@ -59,28 +59,18 @@ Passionate about Embedded Systems, Firmware Development, RTOS, and Embedded Linu
 
 ## 📌 Featured Projects
 
-### 🔹 UART Driver Development
-Developed UART communication drivers with interrupt-based data handling.
-
 ### 🔹 Embedded C Practice Repository
 Collection of Embedded C programs, data structures, bit manipulation exercises, and interview preparation material.
 
 ### 🔹 PIC16F877A Projects
 Microcontroller-based applications developed using Embedded C and simulation environments.
 
-### 🔹 Makefile Automation
-Build automation examples for Embedded Software projects.
-
 ### 🔹 RTOS Learning Projects
 Task scheduling, queues, semaphores, and synchronization examples using FreeRTOS.
 
-### 🔹 Embedded Interview Preparation
-Comprehensive notes covering:
-- Embedded C
-- RTOS
-- Linux
-- Microcontrollers
-- Firmware Design
+### 🔹 Python Embedded Projects
+Python-based embedded systems projects including MicroPython, CircuitPython, Raspberry Pi automation, and serial communication utilities for microcontroller interfacing.
+
 ---
 
 ## 📊 **GitHub Stats**
